@@ -1,2 +1,2 @@
-from cryptography.fernet
-Fernet
+streamlit
+cryptography
